@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Redirecting...</title>
+    <script>
+      // GitHub Pages 404 redirect for SPA
+      // This script redirects all 404 requests to index.html
+      // so that React Router can handle the routing client-side
+      
+      // Get the path that was requested
+      var path = window.location.pathname;
+      
+      // Get the base URL (Portfolio)
+      var base = '/Portfolio';
+      
+      // If we're not already on the base path, redirect to it
+      if (path.startsWith(base)) {
+        // Build the new URL with hash routing
+        var hash = window.location.hash;
+        if (hash) {
+          // Already has hash, just redirect
+          window.location.href = base + '/index.html' + hash;
+        } else {
+          // No hash, redirect to base with hash
+          window.location.href = base + '/index.html' + path.replace(base, '#');
+        }
+      } else {
+        // Redirect to the base path
+        window.location.href = base + '/index.html';
+      }
+    </script>
+  </head>
+  <body>
+    <p>Redirecting to portfolio...</p>
+  </body>
+</html>

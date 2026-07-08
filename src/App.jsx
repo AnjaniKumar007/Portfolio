@@ -40,7 +40,7 @@ function App() {
   // Scroll to top on route change
   useEffect(() => {
     window.scrollTo({ top: 0, behavior: 'smooth' })
-  }, [location.pathname])
+  }, [location.hash])
 
   return (
     <ThemeProvider>
@@ -50,7 +50,7 @@ function App() {
       <ParticleBackground />
       <Navbar />
       <AnimatePresence mode="wait">
-        <Routes location={location} key={location.pathname}>
+        <Routes location={location} key={location.hash}>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/skills" element={<Skills />} />

@@ -21,7 +21,10 @@ const Navbar = () => {
   // Close mobile menu on route change
   useEffect(() => {
     setIsOpen(false)
-  }, [location.pathname])
+  }, [location.hash])
+
+  // Get current path from hash (for HashRouter)
+  const currentPath = location.hash.replace('#', '') || '/'
 
   return (
     <motion.nav
@@ -50,7 +53,7 @@ const Navbar = () => {
               <Link
                 to={link.path}
                 className={`px-3 py-2 rounded-md text-sm font-medium transition-all duration-300 hover:text-accent ${
-                  location.pathname === link.path
+                  currentPath === link.path
                     ? 'text-accent'
                     : 'text-gray-300 dark:text-gray-300'
                 }`}
@@ -100,7 +103,7 @@ const Navbar = () => {
                   <Link
                     to={link.path}
                     className={`block px-6 py-3 text-sm font-medium transition-colors ${
-                      location.pathname === link.path
+                      currentPath === link.path
                         ? 'text-accent bg-white/5'
                         : 'text-gray-300 hover:bg-white/5'
                     }`}
