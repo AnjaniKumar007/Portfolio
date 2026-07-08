@@ -1,16 +1,16 @@
 {
   "gallery": [
-    { "id": 1, "src": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600&h=400&fit=crop", "category": "Events", "title": "Tech Conference 2024" },
-    { "id": 2, "src": "https://images.unsplash.com/photo-1591115765373-5207764f72e7?w=600&h=400&fit=crop", "category": "Hackathons", "title": "Hackathon Win" },
-    { "id": 3, "src": "https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=600&h=400&fit=crop", "category": "College", "title": "Campus Life" },
-    { "id": 4, "src": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=600&h=400&fit=crop", "category": "Projects", "title": "Project Demo" },
-    { "id": 5, "src": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=600&h=400&fit=crop", "category": "Certificates", "title": "Award Ceremony" },
-    { "id": 6, "src": "https://images.unsplash.com/photo-1531482615713-2afd69097998?w=600&h=400&fit=crop", "category": "Events", "title": "Workshop" },
-    { "id": 7, "src": "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=600&h=400&fit=crop", "category": "Hackathons", "title": "Team Work" },
-    { "id": 8, "src": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&h=400&fit=crop", "category": "Projects", "title": "Coding Session" },
-    { "id": 9, "src": "https://images.unsplash.com/photo-1571260899304-425eee4c7efc?w=600&h=400&fit=crop", "category": "College", "title": "Lecture Hall" },
-    { "id": 10, "src": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=600&h=400&fit=crop", "category": "Certificates", "title": "Certificate Award" },
-    { "id": 11, "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=600&h=400&fit=crop", "category": "Projects", "title": "App Showcase" },
-    { "id": 12, "src": "https://images.unsplash.com/photo-1542744173-8e7e53415bb6?w=600&h=400&fit=crop", "category": "Events", "title": "Meetup" }
+    { "id": 1, "src": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&h=400&fit=crop", "category": "Coding", "title": "Java Programming" },
+    { "id": 2, "src": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop", "category": "Python", "title": "Python Development" },
+    { "id": 3, "src": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop", "category": "AI", "title": "Virtual Assistant Project" },
+    { "id": 4, "src": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&fit=crop", "category": "Workspace", "title": "Development Setup" },
+    { "id": 5, "src": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=600&h=400&fit=crop", "category": "College", "title": "Campus Life" },
+    { "id": 6, "src": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop", "category": "Tech", "title": "Technology Learning" },
+    { "id": 7, "src": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=600&h=400&fit=crop", "category": "Learning", "title": "Studying Together" },
+    { "id": 8, "src": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=600&h=400&fit=crop", "category": "Projects", "title": "Building Projects" },
+    { "id": 9, "src": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=600&h=400&fit=crop", "category": "Web", "title": "Portfolio Development" },
+    { "id": 10, "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&h=400&fit=crop", "category": "Cloud", "title": "Google Cloud Study Jams" },
+    { "id": 11, "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=400&fit=crop", "category": "College", "title": "ITER College" },
+    { "id": 12, "src": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&h=400&fit=crop", "category": "Team", "title": "Team Collaboration" }
   ]
 }

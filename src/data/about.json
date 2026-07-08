@@ -1,47 +1,45 @@
 {
   "education": [
     {
-      "year": "2022 - 2026",
+      "year": "2024 - Present",
       "degree": "B.Tech in Computer Science Engineering",
-      "institution": "Your University Name",
-      "description": "Currently pursuing B.Tech with focus on software engineering, data structures, algorithms, and modern web technologies.",
-      "grade": "CGPA: 9.2/10"
+      "institution": "ITER College, Bhubaneswar",
+      "description": "Currently pursuing B.Tech in Computer Science Engineering. Learning software engineering fundamentals, data structures, algorithms, and modern technologies.",
+      "grade": "CGPA: 9.08 (1st Semester)"
+    },
+    {
+      "year": "2022 - 2024",
+      "degree": "Senior Secondary (Class XII)",
+      "institution": "Crescent Public School",
+      "description": "Completed senior secondary education with focus on Science and Mathematics. Developed interest in programming and technology during this period.",
+      "grade": "Completed"
     },
     {
       "year": "2020 - 2022",
-      "degree": "Senior Secondary (Class XII)",
-      "institution": "Your School Name",
-      "description": "Completed senior secondary education with focus on Science and Mathematics.",
-      "grade": "Percentage: 92%"
-    },
-    {
-      "year": "2019 - 2020",
       "degree": "Secondary (Class X)",
-      "institution": "Your School Name",
-      "description": "Completed secondary education with distinction.",
-      "grade": "Percentage: 94%"
+      "institution": "Crescent Public School",
+      "description": "Completed secondary education with strong academic performance.",
+      "grade": "Completed"
     }
   ],
   "achievements": [
-    "Winner of National Level Hackathon 2024",
-    "Top 1% in Coding Competitions",
-    "Published research paper on AI/ML",
-    "Dean's List for Academic Excellence",
-    "Open Source Contributor of the Year"
+    "1st Semester CGPA: 9.08",
+    "Developed Jarvis Virtual Assistant in Class 12",
+    "Google Cloud Study Jams Participant",
+    "Quick learner with strong analytical skills"
   ],
   "languages": [
     { "name": "English", "level": "Fluent" },
-    { "name": "Hindi", "level": "Native" },
-    { "name": "Spanish", "level": "Intermediate" }
+    { "name": "Hindi", "level": "Native" }
   ],
   "interests": [
-    "Web Development",
+    "Software Development",
     "Artificial Intelligence",
-    "Open Source",
-    "UI/UX Design",
-    "Cloud Computing",
-    "Competitive Programming",
-    "Tech Blogging",
-    "Photography"
+    "Java Programming",
+    "Python Programming",
+    "Data Structures & Algorithms",
+    "Problem Solving",
+    "Coding",
+    "Technology"
   ]
 }

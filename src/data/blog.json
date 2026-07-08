@@ -2,69 +2,69 @@
   "posts": [
     {
       "id": 1,
-      "title": "Getting Started with React 18: A Complete Guide",
-      "excerpt": "Learn the fundamentals of React 18 including hooks, suspense, and concurrent features.",
-      "content": "React 18 introduces several powerful features including automatic batching, concurrent rendering, and Suspense improvements. In this comprehensive guide, we'll explore each feature with practical examples...",
-      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&h=400&fit=crop",
-      "category": "Web Development",
-      "date": "2024-03-15",
-      "readTime": "8 min",
-      "author": "Your Name"
+      "title": "Getting Started with Java Programming",
+      "excerpt": "A beginner's guide to Java programming covering fundamentals, OOP concepts, and best practices for new developers.",
+      "content": "Java is one of the most popular programming languages in the world. In this blog, we'll explore the fundamentals of Java programming...",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&h=400&fit=crop",
+      "category": "Programming",
+      "date": "2024-01-15",
+      "readTime": "5 min",
+      "author": "Anjani Kumar"
     },
     {
       "id": 2,
-      "title": "Building Scalable APIs with Node.js and Express",
-      "excerpt": "Best practices for building production-ready REST APIs that scale.",
-      "content": "When building scalable APIs, several factors come into play: proper error handling, validation, authentication, rate limiting, and database optimization...",
-      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&h=400&fit=crop",
-      "category": "Backend",
-      "date": "2024-02-20",
-      "readTime": "10 min",
-      "author": "Your Name"
+      "title": "Understanding Object-Oriented Programming",
+      "excerpt": "Deep dive into OOP concepts: encapsulation, inheritance, polymorphism, and abstraction with practical examples.",
+      "content": "Object-Oriented Programming (OOP) is a fundamental paradigm in software development. Let's understand its core concepts...",
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&h=400&fit=crop",
+      "category": "Concepts",
+      "date": "2024-01-10",
+      "readTime": "7 min",
+      "author": "Anjani Kumar"
     },
     {
       "id": 3,
-      "title": "Mastering Tailwind CSS: Tips and Tricks",
-      "excerpt": "Advanced techniques to write cleaner and more maintainable Tailwind code.",
-      "content": "Tailwind CSS has revolutionized how we write styles. Here are some advanced techniques to take your Tailwind skills to the next level...",
-      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&h=400&fit=crop",
-      "category": "CSS",
-      "date": "2024-01-10",
+      "title": "Building Your First Python Project",
+      "excerpt": "Step-by-step guide to creating your first Python project with practical examples and best practices.",
+      "content": "Python is a versatile language perfect for beginners. In this guide, we'll build a complete project from scratch...",
+      "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&h=400&fit=crop",
+      "category": "Python",
+      "date": "2024-01-05",
       "readTime": "6 min",
-      "author": "Your Name"
+      "author": "Anjani Kumar"
     },
     {
       "id": 4,
-      "title": "AI and the Future of Web Development",
-      "excerpt": "How AI is transforming the way we build web applications.",
-      "content": "Artificial Intelligence is no longer a futuristic concept. From code generation to design assistance, AI tools are reshaping web development...",
-      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop",
-      "category": "AI",
-      "date": "2023-12-05",
-      "readTime": "7 min",
-      "author": "Your Name"
+      "title": "Introduction to Data Structures",
+      "excerpt": "Learn the fundamentals of data structures and why they matter in programming.",
+      "content": "Data structures are fundamental to programming. Understanding arrays, linked lists, stacks, and queues is essential...",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+      "category": "DSA",
+      "date": "2023-12-20",
+      "readTime": "8 min",
+      "author": "Anjani Kumar"
     },
     {
       "id": 5,
-      "title": "A Student's Guide to Open Source Contribution",
-      "excerpt": "How to start contributing to open source projects as a beginner.",
-      "content": "Open source contribution is one of the best ways to improve your skills, build a network, and give back to the community. Here's a complete guide for students...",
-      "image": "https://images.unsplash.com/photo-1556075798-4821df3afef8?w=600&h=400&fit=crop",
-      "category": "Open Source",
-      "date": "2023-11-15",
-      "readTime": "9 min",
-      "author": "Your Name"
+      "title": "Building Jarvis: My Virtual Assistant Project",
+      "excerpt": "How I built a voice-controlled virtual assistant using Python and speech recognition.",
+      "content": "Building a virtual assistant was an exciting project. In this blog, I'll share how I implemented voice recognition...",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=600&h=400&fit=crop",
+      "category": "AI",
+      "date": "2023-12-10",
+      "readTime": "10 min",
+      "author": "Anjani Kumar"
     },
     {
       "id": 6,
-      "title": "Understanding Data Structures and Algorithms",
-      "excerpt": "Why DSA matters and how to master it effectively.",
-      "content": "Data Structures and Algorithms form the foundation of computer science. Whether you're preparing for interviews or building efficient software, mastering DSA is essential...",
-      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
-      "category": "DSA",
-      "date": "2023-10-20",
-      "readTime": "12 min",
-      "author": "Your Name"
+      "title": "Tips for First Year CSE Students",
+      "excerpt": "Advice and tips for students starting their journey in Computer Science Engineering.",
+      "content": "Starting college can be overwhelming. Here are some tips that helped me succeed in my first year of CSE...",
+      "image": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=600&h=400&fit=crop",
+      "category": "Education",
+      "date": "2023-11-15",
+      "readTime": "5 min",
+      "author": "Anjani Kumar"
     }
   ]
 }
