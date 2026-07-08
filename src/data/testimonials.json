@@ -1,0 +1,36 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Sarah Johnson",
+      "role": "Product Manager",
+      "company": "Tech Corp",
+      "message": "An exceptional developer with a keen eye for detail. Delivered the project ahead of schedule with outstanding quality.",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop"
+    },
+    {
+      "id": 2,
+      "name": "Michael Chen",
+      "role": "Senior Engineer",
+      "company": "StartupXYZ",
+      "message": "One of the most talented students I've mentored. Their problem-solving skills and dedication are remarkable.",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop"
+    },
+    {
+      "id": 3,
+      "name": "Priya Sharma",
+      "role": "UI/UX Designer",
+      "company": "Design Studio",
+      "message": "A wonderful collaborator who brings designs to life with pixel-perfect precision and creative flair.",
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop"
+    },
+    {
+      "id": 4,
+      "name": "David Wilson",
+      "role": "CTO",
+      "company": "InnovateLabs",
+      "message": "Brilliant work ethic and technical prowess. Would highly recommend for any software development role.",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop"
+    }
+  ]
+}

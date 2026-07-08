@@ -1,0 +1,64 @@
+{
+  "certifications": [
+    {
+      "id": 1,
+      "title": "AWS Certified Cloud Practitioner",
+      "organization": "Amazon Web Services",
+      "date": "March 2024",
+      "credentialId": "AWS-CCP-2024-XXXXX",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&h=300&fit=crop",
+      "verifyUrl": "#",
+      "category": "Cloud"
+    },
+    {
+      "id": 2,
+      "title": "Meta Front-End Developer Professional",
+      "organization": "Coursera / Meta",
+      "date": "January 2024",
+      "credentialId": "META-FE-2024-XXXXX",
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=400&h=300&fit=crop",
+      "verifyUrl": "#",
+      "category": "Frontend"
+    },
+    {
+      "id": 3,
+      "title": "Google Data Analytics Professional",
+      "organization": "Coursera / Google",
+      "date": "November 2023",
+      "credentialId": "GOOGLE-DA-2023-XXXXX",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=300&fit=crop",
+      "verifyUrl": "#",
+      "category": "Data"
+    },
+    {
+      "id": 4,
+      "title": "Java Programming Masterclass",
+      "organization": "Udemy",
+      "date": "September 2023",
+      "credentialId": "UC-JAVA-2023-XXXXX",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400&h=300&fit=crop",
+      "verifyUrl": "#",
+      "category": "Programming"
+    },
+    {
+      "id": 5,
+      "title": "React - The Complete Guide",
+      "organization": "Udemy",
+      "date": "July 2023",
+      "credentialId": "UC-REACT-2023-XXXXX",
+      "image": "https://images.unsplash.com/photo-1633356122102-3fe601c05f96?w=400&h=300&fit=crop",
+      "verifyUrl": "#",
+      "category": "Frontend"
+    },
+    {
+      "id": 6,
+      "title": "Machine Learning Specialization",
+      "organization": "Coursera / Stanford",
+      "date": "May 2023",
+      "credentialId": "STAN-ML-2023-XXXXX",
+      "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=400&h=300&fit=crop",
+      "verifyUrl": "#",
+      "category": "AI/ML"
+    }
+  ]
+}

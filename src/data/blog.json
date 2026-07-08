@@ -1,0 +1,70 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Getting Started with React 18: A Complete Guide",
+      "excerpt": "Learn the fundamentals of React 18 including hooks, suspense, and concurrent features.",
+      "content": "React 18 introduces several powerful features including automatic batching, concurrent rendering, and Suspense improvements. In this comprehensive guide, we'll explore each feature with practical examples...",
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&h=400&fit=crop",
+      "category": "Web Development",
+      "date": "2024-03-15",
+      "readTime": "8 min",
+      "author": "Your Name"
+    },
+    {
+      "id": 2,
+      "title": "Building Scalable APIs with Node.js and Express",
+      "excerpt": "Best practices for building production-ready REST APIs that scale.",
+      "content": "When building scalable APIs, several factors come into play: proper error handling, validation, authentication, rate limiting, and database optimization...",
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=600&h=400&fit=crop",
+      "category": "Backend",
+      "date": "2024-02-20",
+      "readTime": "10 min",
+      "author": "Your Name"
+    },
+    {
+      "id": 3,
+      "title": "Mastering Tailwind CSS: Tips and Tricks",
+      "excerpt": "Advanced techniques to write cleaner and more maintainable Tailwind code.",
+      "content": "Tailwind CSS has revolutionized how we write styles. Here are some advanced techniques to take your Tailwind skills to the next level...",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&h=400&fit=crop",
+      "category": "CSS",
+      "date": "2024-01-10",
+      "readTime": "6 min",
+      "author": "Your Name"
+    },
+    {
+      "id": 4,
+      "title": "AI and the Future of Web Development",
+      "excerpt": "How AI is transforming the way we build web applications.",
+      "content": "Artificial Intelligence is no longer a futuristic concept. From code generation to design assistance, AI tools are reshaping web development...",
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600&h=400&fit=crop",
+      "category": "AI",
+      "date": "2023-12-05",
+      "readTime": "7 min",
+      "author": "Your Name"
+    },
+    {
+      "id": 5,
+      "title": "A Student's Guide to Open Source Contribution",
+      "excerpt": "How to start contributing to open source projects as a beginner.",
+      "content": "Open source contribution is one of the best ways to improve your skills, build a network, and give back to the community. Here's a complete guide for students...",
+      "image": "https://images.unsplash.com/photo-1556075798-4821df3afef8?w=600&h=400&fit=crop",
+      "category": "Open Source",
+      "date": "2023-11-15",
+      "readTime": "9 min",
+      "author": "Your Name"
+    },
+    {
+      "id": 6,
+      "title": "Understanding Data Structures and Algorithms",
+      "excerpt": "Why DSA matters and how to master it effectively.",
+      "content": "Data Structures and Algorithms form the foundation of computer science. Whether you're preparing for interviews or building efficient software, mastering DSA is essential...",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=600&h=400&fit=crop",
+      "category": "DSA",
+      "date": "2023-10-20",
+      "readTime": "12 min",
+      "author": "Your Name"
+    }
+  ]
+}

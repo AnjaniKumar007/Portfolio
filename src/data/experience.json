@@ -1,0 +1,58 @@
+{
+  "experiences": [
+    {
+      "type": "Internship",
+      "title": "Frontend Developer Intern",
+      "organization": "Tech Company Inc.",
+      "duration": "Jun 2024 - Aug 2024",
+      "location": "Remote",
+      "description": "Worked on building responsive web applications using React and Tailwind CSS. Collaborated with a team of 5 developers to deliver features for a SaaS product.",
+      "skills": ["React", "Tailwind CSS", "Git", "Agile"]
+    },
+    {
+      "type": "Internship",
+      "title": "Full Stack Developer Intern",
+      "organization": "Startup XYZ",
+      "duration": "Jan 2024 - May 2024",
+      "location": "Hybrid",
+      "description": "Developed REST APIs using Node.js and Express. Built admin dashboards and integrated third-party services.",
+      "skills": ["Node.js", "Express", "MongoDB", "React"]
+    },
+    {
+      "type": "Hackathon",
+      "title": "Smart India Hackathon - Winner",
+      "organization": "Government of India",
+      "duration": "Aug 2023",
+      "location": "Bangalore",
+      "description": "Won the national level hackathon by building an AI-powered solution for healthcare accessibility in rural areas.",
+      "skills": ["AI/ML", "Python", "React", "Team Leadership"]
+    },
+    {
+      "type": "Workshop",
+      "title": "AWS Cloud Practitioner Workshop",
+      "organization": "AWS Academy",
+      "duration": "Mar 2024",
+      "location": "Online",
+      "description": "Completed intensive workshop on AWS cloud services including EC2, S3, Lambda, and DynamoDB.",
+      "skills": ["AWS", "Cloud Computing", "DevOps"]
+    },
+    {
+      "type": "Volunteer",
+      "title": "Technical Volunteer",
+      "organization": "College Tech Fest",
+      "duration": "Oct 2023",
+      "location": "College Campus",
+      "description": "Led a team of 20 volunteers to organize the annual technical fest with 1000+ participants.",
+      "skills": ["Leadership", "Event Management", "Communication"]
+    },
+    {
+      "type": "Leadership",
+      "title": "President - Coding Club",
+      "organization": "University Coding Club",
+      "duration": "2023 - Present",
+      "location": "University",
+      "description": "Leading a community of 200+ developers. Organizing workshops, hackathons, and coding competitions.",
+      "skills": ["Leadership", "Community Building", "Mentoring"]
+    }
+  ]
+}
