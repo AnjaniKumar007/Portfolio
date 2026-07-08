@@ -2,13 +2,13 @@
   "name": "Portfolio",
   "short_name": "Portfolio",
   "description": "Portfolio of a Software Developer",
-  "start_url": "/",
+  "start_url": "/Portfolio/",
   "display": "standalone",
   "background_color": "#0F172A",
   "theme_color": "#0F172A",
   "icons": [
     {
-      "src": "/favicon.svg",
+      "src": "/Portfolio/favicon.svg",
       "sizes": "any",
       "type": "image/svg+xml"
     }
